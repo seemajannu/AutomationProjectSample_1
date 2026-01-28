@@ -4,9 +4,9 @@ import org.testng.annotations.Test;
 
 public class annotationPract {
 	@Test
-	public void testcase1()
+	public void testcase10()
 	{
-		System.out.println("This is test case 1");
+		System.out.println("This is test case 10 from ");
 	}
 	@Test
 	public void testcase2()

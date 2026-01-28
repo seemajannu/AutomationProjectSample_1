@@ -1,41 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="6" total="11" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-27T10:34:28 EST" name="Default suite" finished-at="2026-01-27T10:34:28 EST" duration-ms="60">
+  <suite started-at="2026-01-28T11:41:27 EST" name="Suite" finished-at="2026-01-28T11:41:27 EST" duration-ms="62">
     <groups>
     </groups>
-    <test started-at="2026-01-27T10:34:28 EST" name="Default test" finished-at="2026-01-27T10:34:28 EST" duration-ms="60">
+    <test started-at="2026-01-28T11:41:27 EST" name="Test" finished-at="2026-01-28T11:41:27 EST" duration-ms="62">
+      <class name="Excercise.annotationPract2">
+        <test-method signature="testcasepract1()[pri:0, instance:Excercise.annotationPract2@c730b35]" started-at="2026-01-28T11:41:27 EST" name="testcasepract1" finished-at="2026-01-28T11:41:27 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasepract1 -->
+        <test-method signature="testcasepract2()[pri:0, instance:Excercise.annotationPract2@c730b35]" started-at="2026-01-28T11:41:27 EST" name="testcasepract2" finished-at="2026-01-28T11:41:27 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasepract2 -->
+        <test-method signature="testcasepract3()[pri:0, instance:Excercise.annotationPract2@c730b35]" started-at="2026-01-28T11:41:27 EST" name="testcasepract3" finished-at="2026-01-28T11:41:27 EST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasepract3 -->
+        <test-method signature="testcasepract4()[pri:0, instance:Excercise.annotationPract2@c730b35]" started-at="2026-01-28T11:41:27 EST" name="testcasepract4" finished-at="2026-01-28T11:41:27 EST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasepract4 -->
+      </class> <!-- Excercise.annotationPract2 -->
       <class name="Excercise.annotationPract">
-        <test-method signature="testcase1()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase1" finished-at="2026-01-27T10:34:28 EST" duration-ms="9" status="PASS">
+        <test-method signature="testcase10()[pri:0, instance:Excercise.annotationPract@776aec5c]" started-at="2026-01-28T11:41:27 EST" name="testcase10" finished-at="2026-01-28T11:41:27 EST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase1 -->
-        <test-method signature="testcase2()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase2" finished-at="2026-01-27T10:34:28 EST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase2 -->
-        <test-method signature="testcase3()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase3" finished-at="2026-01-27T10:34:28 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase3 -->
-        <test-method signature="testcase4()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase4" finished-at="2026-01-27T10:34:28 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase4 -->
-        <test-method signature="testcase5()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase5" finished-at="2026-01-27T10:34:28 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase5 -->
-        <test-method signature="testcase6()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase6" finished-at="2026-01-27T10:34:28 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase6 -->
-        <test-method signature="testcase7()[pri:0, instance:Excercise.annotationPract@36fc695d]" started-at="2026-01-27T10:34:28 EST" name="testcase7" finished-at="2026-01-27T10:34:28 EST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testcase7 -->
+        </test-method> <!-- testcase10 -->
       </class> <!-- Excercise.annotationPract -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
