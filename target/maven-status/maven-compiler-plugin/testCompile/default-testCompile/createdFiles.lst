@@ -1,0 +1,5 @@
+testScript\MainPageLoginScript.class
+testScript\ProfilepageScript.class
+baseModel\BaseClass.class
+testSuite\MainPageLoginSuite.class
+testSuite\ProfilePageSuite.class
